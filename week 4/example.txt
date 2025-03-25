@@ -1,0 +1,26 @@
+Python Data Structures Grouped by Mutability
+Mutable Data Structures
+These data structures can be modified after their creation, allowing changes to their contents or state:
+
+Lists: Ordered collections of elements that can be added, removed, or updated.
+
+Dictionaries: Key-value pairs that can be modified by adding, updating, or deleting keys and values.
+
+Sets: Unordered collections of unique elements that can be updated by adding or removing elements.
+
+Arrays (from array module): Typed sequences of elements that can be updated.
+
+Immutable Data Structures
+These data structures cannot be changed once created. Any modification results in the creation of a new instance:
+
+Tuples: Ordered collections of elements that cannot be modified after creation.
+
+Strings: Sequences of characters that are immutable.
+
+Frozensets: Immutable versions of sets.
+
+Named Tuples: Subclass of tuples with named fields, also immutable.
+
+Bytes: Immutable sequences of byte data.
+
+Numbers: Includes int, float, and complex types, which are immutable
